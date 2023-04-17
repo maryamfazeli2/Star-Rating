@@ -1,0 +1,18 @@
+button {
+    background-color: transparent;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+.on {
+    color: #e4ab02;
+}
+
+.off {
+    color: #ccc;
+}
+
+body {
+    padding: 100px;
+}
